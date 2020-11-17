@@ -1,0 +1,4 @@
+org/example/PSD001AssetContractTest.java
+ org.example.PSD001AssetContractTest
+ org.example.PSD001AssetContractTest$AssetCreates
+ org.example.PSD001AssetContractTest$AssetExists
