@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.example.PSD001AssetContractTest$AssetExists" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-09-28T20:16:05" hostname="USMBP13pbooth-2.local" time="0.007">
-  <properties/>
-  <testcase name="noProperAsset()" classname="org.example.PSD001AssetContractTest$AssetExists" time="0.002"/>
-  <testcase name="assetAlreadyExists()" classname="org.example.PSD001AssetContractTest$AssetExists" time="0.001"/>
-  <testcase name="noKey()" classname="org.example.PSD001AssetContractTest$AssetExists" time="0.002"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
