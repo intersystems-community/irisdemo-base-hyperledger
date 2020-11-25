@@ -189,7 +189,7 @@ function createOrgs() {
 
     infoln "Generate certificates using Fabric CA's"
 
-    IMAGE_TAG=${CA_IMAGETAG} docker-compose -f $COMPOSE_FILE_CA up -d 2>&1
+    #docker-compose up -d 
 
     . organizations/fabric-ca/registerEnroll.sh
 

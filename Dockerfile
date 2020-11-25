@@ -3,7 +3,7 @@ FROM gradle:6.7.0-jdk11
 LABEL maintainer="Phillip Booth <phillip.booth@intersystems.com>"
 
 RUN apt-get update && apt-get install -y \
-curl git
+curl
 
 WORKDIR /hyperledger
 
